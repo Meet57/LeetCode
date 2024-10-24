@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Meet57/LeetCode/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
