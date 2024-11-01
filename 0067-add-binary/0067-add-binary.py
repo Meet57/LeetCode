@@ -10,18 +10,21 @@ class Solution:
             
             total = bita + bitb + carry
 
-            if total == 0:
-                result.append('0')
-                carry = 0
-            elif total == 1:
-                result.append('1')
-                carry = 0
-            elif total == 2:
-                result.append('0')
-                carry = 1
-            elif total == 3:
-                result.append('1')
-                carry = 1
+            result.append(str(total % 2))  # Append remainder as binary bit
+            carry = total // 2            # Update carry
+
+            # if total == 0:
+            #     result.append('0')
+            #     carry = 0
+            # elif total == 1:
+            #     result.append('1')
+            #     carry = 0
+            # elif total == 2:
+            #     result.append('0')
+            #     carry = 1
+            # elif total == 3:
+            #     result.append('1')
+            #     carry = 1
             
             j-=1
             i-=1
