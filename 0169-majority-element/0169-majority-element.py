@@ -3,6 +3,8 @@ class Solution:
         # nums.sort()
         # return nums[math.floor(len(nums)/2)]
 
+        # The algorithm essentially cancels out each element that isn’t the majority by matching it with an element that is different. By the end, if there’s a majority element, it will remain as the candidate.
+
         a = nums[0]
         counter = 0
 
