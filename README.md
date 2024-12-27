@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/Meet57/LeetCode/tree/master/0733-flood-fill) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Meet57/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
