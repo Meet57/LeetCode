@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Meet57/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Meet57/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Meet57/LeetCode/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Meet57/LeetCode/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
