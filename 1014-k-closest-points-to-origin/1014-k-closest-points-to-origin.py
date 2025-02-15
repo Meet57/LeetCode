@@ -23,3 +23,8 @@ class Solution:
             k -= 1
         
         return res
+
+        # OR
+
+        # points.sort(key = lambda k: k[0]**2 + k[1]**2)
+        # return points[:k]
