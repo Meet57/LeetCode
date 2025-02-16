@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Meet57/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Meet57/LeetCode/tree/master/0057-insert-interval) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Meet57/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/Meet57/LeetCode/tree/master/0542-01-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Meet57/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Meet57/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Meet57/LeetCode/tree/master/0133-clone-graph) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Meet57/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
