@@ -16,7 +16,7 @@ class Solution:
             dfs(r-1,c)
             dfs(r,c-1)
 
-        # 
+        # Here what we are doing is whenever we find a island what we will do is, we will take DFS on all the direction and will make that island to zero then after we continue the iteration to the grid and if we find another island we will increment the island count and will again do DFS to all the nodes nearby and make it zero
 
         for r in range(rows):
             for c in range(cols):
