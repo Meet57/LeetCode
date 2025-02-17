@@ -13,6 +13,8 @@ class Solution:
                 return mid
             
             # Here the base story is that the area is sorted but in two different half if you get the middle one and check the left and right side you will get either of the side being sorted so this conditions are for the first loop itself and after that it will be the normal binary search as it will always go in the first if condition
+            # In the condition to check which side is sorted is just because we can put a comparator where being the lowest value and the highest value has our middle target value so it is basically the first if statement in the outer if else statement
+            
             # Left ride is sorted
             if nums[left] <= nums[mid]:
                 # Maybe in the left side
