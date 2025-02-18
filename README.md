@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Meet57/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Meet57/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Meet57/LeetCode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/Meet57/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Meet57/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Meet57/LeetCode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/Meet57/LeetCode/tree/master/0721-accounts-merge) |
+| [1023-time-based-key-value-store](https://github.com/Meet57/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Meet57/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Meet57/LeetCode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/Meet57/LeetCode/tree/master/0721-accounts-merge) |
+| [1023-time-based-key-value-store](https://github.com/Meet57/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Meet57/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1023-time-based-key-value-store](https://github.com/Meet57/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
