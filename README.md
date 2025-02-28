@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Meet57/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Meet57/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/Meet57/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meet57/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Meet57/LeetCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/Meet57/LeetCode/tree/master/0721-accounts-merge) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
