@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Meet57/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Meet57/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Meet57/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Meet57/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
@@ -244,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Meet57/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
