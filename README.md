@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Meet57/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Meet57/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Meet57/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Meet57/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Meet57/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Meet57/LeetCode/tree/master/0542-01-matrix) |
 ## Memoization
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/Meet57/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
