@@ -195,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Meet57/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Meet57/LeetCode/tree/master/0190-reverse-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/Meet57/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Meet57/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
