@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Meet57/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Meet57/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Meet57/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Meet57/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Meet57/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/Meet57/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Meet57/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Meet57/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Meet57/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Meet57/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Meet57/LeetCode/tree/master/0542-01-matrix) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Meet57/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Meet57/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Meet57/LeetCode/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/Meet57/LeetCode/tree/master/0721-accounts-merge) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Meet57/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meet57/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meet57/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/Meet57/LeetCode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Meet57/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Meet57/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meet57/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Meet57/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Meet57/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Meet57/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Meet57/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Meet57/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
